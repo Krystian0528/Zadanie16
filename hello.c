@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Kacper jarka");
+    printf("kacper Jarka /n Krystian Sniegoski");
     return 0;
 }
